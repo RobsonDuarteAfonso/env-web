@@ -1,0 +1,10 @@
+git config --global user.name robson
+git config --global user.email e2395154@cmasoinneuve.qc.ca
+
+cd /c/
+
+git init
+
+git clone https://github.com/RobsonDuarteAfonso/env-web.git
+
+git add <file>
